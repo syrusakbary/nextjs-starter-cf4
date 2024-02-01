@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-nextjs-starter-cf4
+package: syrusakbary/nextjs-starter-cf4
